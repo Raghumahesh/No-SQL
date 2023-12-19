@@ -1,0 +1,21 @@
+﻿Edge,Node1,Node2,Connected by,common assignments
+Edge1,Sets and Relations,Database,Mathematics,12
+Edge2,Sets and Relations,statistics,Mathematics,15
+Edge3,statistics,Discrete Maths,Mathematics,20
+Edge4,Discrete Maths,Calculus,Mathematics,24
+Edge5,Database,Programming,Computer Science,27
+Edge6,Programming,Data Structures,Computer Science,18
+Edge7,Data Structures,Operating system,Computer Science,9
+Edge8,Operating System,Computer Architecture,Computer Science,23
+Edge9,Calculus,Physics,Physics,13
+Edge10,Physics,Quantam Computing,Physics,16
+Edge11,Cloud Computing,Quantam Computing,Applied Science,11
+Edge12,Cloud Computing,Machine Learning,Applied Science,14
+Edge13,Compiler Design,Formal Language Theroy,Design Systems,23
+Edge14,Machine Learning,Artificial Intelligence,Artifical Intelligence,32
+Edge15,Artifical Intelligence,Deep Learning,Artifical Intelligence,22
+Edge16,Deep Learning,Neural Network,Computer Science,26
+Edge17,Neural Network,Natural Language Processing,Computer Science,14
+Edge18,Natural Language Processing,CyberSecurity,Computer Security,21
+Edge19,Computer Architecture,Compiler Design,Computer Science,19
+Edge20,Formal Language Theroy,CyberSecurity,Computer Science,17
